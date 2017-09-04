@@ -1,0 +1,10 @@
+$bg-color: lightblue;
+
+body {
+  background: $bg-color;
+}
+
+input[type="text"]{
+bg-color:gray !important;
+color:#111;
+}
